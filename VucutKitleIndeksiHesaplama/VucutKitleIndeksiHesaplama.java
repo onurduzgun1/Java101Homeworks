@@ -1,6 +1,6 @@
-package Java101Odevler.VucutKitleİndeksiHesaplama;
+package Java101Odevler.VucutKitleIndeksiHesaplama;
 import java.util.Scanner;
-public class VucutKitleİndeksiHesaplama {
+public class VucutKitleIndeksiHesaplama {
     public static void main(String[] args) {
         double boy;
         double kilo;
