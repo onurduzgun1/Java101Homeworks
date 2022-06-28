@@ -4,7 +4,7 @@ public class YildizlarlaElmas {
     public static void main(String[] args) {
         int n,a,b,c;
         Scanner inp = new Scanner(System.in);
-        System.out.print("Enter a number : ");
+        System.out.print("Enter number of digits: ");
         n = inp.nextInt();
         for ( a = 1; a <= n; a++) {
             for ( b = 1; b <= (n - a); b++) {
